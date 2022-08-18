@@ -90,3 +90,7 @@ a {
   border: 2px solid black;
   border-radius: 5px;
 }
+
+table {
+  margin-top: 3rem;
+}

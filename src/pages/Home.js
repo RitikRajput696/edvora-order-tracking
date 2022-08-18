@@ -1,11 +1,10 @@
 import React from 'react';
-import Navbar from '../components/Navbar';
-import StickyHeadTable from '../components/StickyHeadTable';
+import DataTable from '../components/DataTable';
 
 function Home() {
   return (
     <>
-      <StickyHeadTable />
+      <DataTable />
     </>
   );
 }
