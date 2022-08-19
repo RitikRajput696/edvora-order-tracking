@@ -1,10 +1,12 @@
 import React from 'react';
-import BarChart from '../components/BarChart';
+import BarChart1 from '../components/BarChart1';
 
 function Statistics() {
   return (
     <>
-      <BarChart />
+      <div className="container">
+        <BarChart1 />
+      </div>
     </>
   );
 }
